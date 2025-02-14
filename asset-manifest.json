@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mariana/static/css/main.d1dcbf7a.css",
+    "main.js": "/mariana/static/js/main.877d1d2d.js",
+    "static/js/453.aa6ed789.chunk.js": "/mariana/static/js/453.aa6ed789.chunk.js",
+    "static/media/logo.svg": "/mariana/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mariana/index.html",
+    "main.d1dcbf7a.css.map": "/mariana/static/css/main.d1dcbf7a.css.map",
+    "main.877d1d2d.js.map": "/mariana/static/js/main.877d1d2d.js.map",
+    "453.aa6ed789.chunk.js.map": "/mariana/static/js/453.aa6ed789.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1dcbf7a.css",
+    "static/js/main.877d1d2d.js"
+  ]
+}
